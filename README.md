@@ -13,7 +13,7 @@ Low profile, choc spaced QAZ-alike
 
 # Materials
 * 1x ProMicro Compatible Controller
-* 37x [Kailh XSwitch and Keycaps](https://mkultra.click/kailh-x-switches-and-keycaps/)
+* 37x Kailh XSwitch and Keycaps
 * 37x SOD-123 1N4148 Diodes
 * 1x [SKHLLCA010 Reset Button](https://www.aliexpress.us/item/3256804101901854.html)
 * 1x [OS10201MA1QN1 Power Switch](https://www.digikey.com/en/products/detail/c-k/OS102011MA1QN1/1981430)  (optional)
