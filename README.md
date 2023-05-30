@@ -15,7 +15,14 @@ Low profile, choc spaced QAZ-alike
 * 1x ProMicro Compatible Controller
 * 1x [PH3.5 12P Socket](https://www.aliexpress.us/item/2251800435894905.html)
 * 1x [PH3.5 7P Socket](https://www.aliexpress.us/item/2251800435894905.html)
-* 37x Kailh XSwitch and Keycaps
+* 37x Kailh Choc v1 switches
+* 37x Keycaps
+  * 31x 1u 
+  * 2x 1.25u
+  * 1x 1.75u
+  * 1x 1.5u
+  * 1x 2u
+  * 1x 2.25u
 * 37x SOD-123 1N4148 Diodes
 * 1x [SKHLLCA010 Reset Button](https://www.aliexpress.us/item/3256804101901854.html)
 * 1x [OS10201MA1QN1 Power Switch](https://www.digikey.com/en/products/detail/c-k/OS102011MA1QN1/1981430)  (optional)
