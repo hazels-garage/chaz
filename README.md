@@ -13,6 +13,8 @@ Low profile, choc spaced QAZ-alike
 
 # Materials
 * 1x ProMicro Compatible Controller
+* 1x [PH3.5 12P Socket](https://www.aliexpress.us/item/2251800435894905.html)
+* 1x [PH3.5 7P Socket](https://www.aliexpress.us/item/2251800435894905.html)
 * 37x Kailh XSwitch and Keycaps
 * 37x SOD-123 1N4148 Diodes
 * 1x [SKHLLCA010 Reset Button](https://www.aliexpress.us/item/3256804101901854.html)
