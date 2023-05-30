@@ -18,7 +18,6 @@ Low profile, choc spaced QAZ-alike
 * 1x [SKHLLCA010 Reset Button](https://www.aliexpress.us/item/3256804101901854.html)
 * 1x [OS10201MA1QN1 Power Switch](https://www.digikey.com/en/products/detail/c-k/OS102011MA1QN1/1981430)  (optional)
 * 2x [Kailh Choc 2u Stabalizers](https://www.aliexpress.us/item/2251832852867988.html)
-* 1x [CR2032 Battery Holder](https://www.aliexpress.us/item/2251832843180857.html)
 * 4x 9mm M2 Standoffs
 * 8x 4mm M2 Screws
 
