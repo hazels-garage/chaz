@@ -58,4 +58,4 @@ Low profile, choc spaced QAZ-alike
 * Print [Case](case/case.stl)
 * Install 4x heatset inserts.
 * secure switchplate to heatset inserts with Male/Female Brass Standoff
-* 8mm-ish screw through Backplate into Brass Standoff
+* 8mm-ish screw through Backplate into Brass Standoff 
