@@ -6,7 +6,7 @@
 
 # Chaz
 
-![Chaz](images/chaz.jpg)
+![Chaz](images/chaz03.jpg)
 Low Profile, Choc Spaced QAZ-alike
 
 ## Features
