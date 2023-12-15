@@ -43,7 +43,7 @@ To get into DFU, hold the DFU button on the bottom of the PCB while plugging in 
 
 * [QMK](https://github.com/hazels-garage/qmk_firmware/tree/hazel/chaz)
 * [VIAL](firmware/hazel_chaz_v03_vial.bin)
-* ZMK Soon
+* [ZMK](https://github.com/hazels-garage/zmk-chaz)
 
 
 ## Changelog
