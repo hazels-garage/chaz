@@ -1,0 +1,190 @@
+45950694371475
+chaz
+C_0402_1005Metric
+Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
+capacitor
+0
+2
+2
+chaz
+C_0603_1608Metric
+Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
+capacitor
+0
+2
+2
+chaz
+Choc-1.5u-millmax
+
+
+0
+2
+2
+chaz
+Choc-1.25u-millmax
+
+
+0
+2
+2
+chaz
+Choc-1.75u-millmax
+
+
+0
+2
+2
+chaz
+Choc-1u-cutout
+
+
+0
+0
+0
+chaz
+Choc-2.25u-millmax
+
+
+0
+2
+2
+chaz
+Choc-2u-cutout
+
+
+0
+0
+0
+chaz
+Choc-2u-millmax
+
+
+0
+2
+2
+chaz
+Choc-2u-solder
+
+
+0
+2
+2
+chaz
+Crystal_SMD_3225-4Pin_3.2x2.5mm
+SMD Crystal SERIES SMD3225/4 http://www.txccrystal.com/images/pdf/7m-accuracy.pdf, 3.2x2.5mm^2 package
+SMD SMT crystal
+0
+4
+4
+chaz
+D_SOD-123
+SOD-123
+SOD-123
+0
+2
+2
+chaz
+Fuse_1206_3216Metric
+Fuse SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+fuse
+0
+2
+2
+chaz
+LQFP-48_7x7mm_P0.5mm
+LQFP, 48 Pin (https://www.analog.com/media/en/technical-documentation/data-sheets/ltc2358-16.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
+LQFP QFP
+0
+57
+48
+chaz
+Molex-216990_GCT-USB45xx_HRO-TYPE-C-31-M-13x
+
+
+0
+20
+17
+chaz
+MountingHole_M2_Pad_NonPTH_TopOnly
+Mounting Hole 3mm
+mounting hole 3mm
+0
+1
+1
+chaz
+OLED-64x32-cutout
+
+
+0
+4
+4
+chaz
+PinHeader_1x02_P2.00mm_Vertical
+Through hole straight pin header, 1x02, 2.00mm pitch, single row
+Through hole pin header THT 1x02 2.00mm single row
+0
+2
+2
+chaz
+RP2040-QFN-56
+QFN, 56 Pin (http://www.cypress.com/file/416486/download#page=40), generated with kicad-footprint-generator ipc_dfn_qfn_generator.py
+QFN DFN_QFN
+0
+70
+57
+chaz
+R_0402_1005Metric
+Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
+resistor
+0
+2
+2
+chaz
+R_0603_1608Metric
+Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
+resistor
+0
+2
+2
+chaz
+SOT-23
+SOT, 3 Pin (https://www.jedec.org/system/files/docs/to-236h.pdf variant AB), generated with kicad-footprint-generator ipc_gullwing_generator.py
+SOT TO_SOT_SMD
+0
+3
+3
+chaz
+SOT-23-6-routable
+SOT, 6 Pin (https://www.jedec.org/sites/default/files/docs/Mo-178c.PDF variant AB), generated with kicad-footprint-generator ipc_gullwing_generator.py
+SOT TO_SOT_SMD
+0
+6
+6
+chaz
+SW_SPST_TL3342
+Low-profile SMD Tactile Switch, https://www.e-switch.com/system/asset/product_line/data_sheet/165/TL3342.pdf
+SPST Tactile Switch
+0
+4
+2
+chaz
+USON-8-1EP_3x2mm_P0.5mm_EP0.25x1.65mm
+USON, 8 Pin with EP (also knowwn as UDFN)
+USON UDFN 8-pins
+0
+9
+9
+chaz
+choc-1u-millmax
+
+
+0
+2
+2
+chaz
+via
+
+
+0
+1
+1

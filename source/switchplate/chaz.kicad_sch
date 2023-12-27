@@ -1,0 +1,31 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid bcf08c00-9729-48c6-a1d1-fd61a92f814c)
+
+  (paper "A4")
+
+  (lib_symbols
+  )
+
+
+  (sheet (at 73.66 18.415) (size 31.75 26.67) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 05931c95-a9e7-464b-bc2a-a1adbf6ee993)
+    (property "Sheetname" "matrix" (at 73.66 17.7034 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "matrix.kicad_sch" (at 73.66 45.6696 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "chaz"
+        (path "/bcf08c00-9729-48c6-a1d1-fd61a92f814c" (page "3"))
+      )
+    )
+  )
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
+)
