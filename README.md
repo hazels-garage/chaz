@@ -14,9 +14,10 @@ Low Profile, Choc Spaced QAZ-alike
 * QAZ Layout
 * Choc Spaced
 * Integrated STM32F702 microcontroller
+* [Open Source](/source)
 
 ## Materials
-* 1x [Chaz PCB](https://shop.hazel.cc/products/chaz-v03)
+* 1x Chaz PCB & Switchplate - [Buy](https://shop.hazel.cc/products/chaz-v03) - [Source](/source)
 * 2x 2U Kailh Choc Stabalizers
 * 37x Kailh Choc v1 Switches
 * 37x Keycaps
